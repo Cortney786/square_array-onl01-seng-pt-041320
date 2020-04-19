@@ -1,3 +1,3 @@
-def square_array(array)
-  # your code here
+def square_array(arrays)
+  square_array.each do |arrays|
 end
