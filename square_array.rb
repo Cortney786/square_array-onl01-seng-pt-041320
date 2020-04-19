@@ -3,6 +3,8 @@ def square_array(array)
   array.each do |arrays|
   new_arrays << (array ** 2)
 end
+return new_arrays
+end
 
 
 
