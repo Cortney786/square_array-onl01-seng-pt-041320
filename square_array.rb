@@ -1,8 +1,8 @@
 def square_array(arrays)
-  square_array.each do
+  square_array.each 
 end
 
 
 
 
-{|arrays| arrays ** 2}
+#{|arrays| arrays ** 2}
