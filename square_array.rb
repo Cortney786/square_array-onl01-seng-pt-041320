@@ -1,6 +1,6 @@
 def square_array(arrays)
-  arrays.each{[arrays] arrays ** 2}
-end
+  arrays.each{[arrays] arrays}
+ end
 end
 
 
