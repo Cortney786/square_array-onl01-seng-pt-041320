@@ -1,5 +1,5 @@
 def square_array(arrays)
-  square_array.each{|number|}
+  square_array.each
 end
 
 
