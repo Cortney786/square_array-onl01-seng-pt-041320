@@ -9,3 +9,4 @@ end
 
 
 #{|arrays| arrays ** 2}
+#square_array << array ** 2
